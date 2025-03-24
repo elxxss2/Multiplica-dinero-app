@@ -42,7 +42,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Realizar Pago</h2>
+        <h2>Deposita aquí y disfruta mucho tus deseos</h2>
         <button class="payment-option" onclick="payWithMetaMask()">Pagar con MetaMask</button>
         <p class="payment-info">MetaMask: 0xf88c17b82e3f4ec537fc89713939100efc112005</p>
         <button class="payment-option" onclick="copyToClipboard('0xf88c17b82e3f4ec537fc89713939100efc112005')">Copiar MetaMask</button>
